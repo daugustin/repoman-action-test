@@ -1,2 +1,3 @@
 #!/bin/sh
-repoman /github/workspace
+cd /github/workspace
+repoman full
