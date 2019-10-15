@@ -1,0 +1,5 @@
+# action.yml
+name: 'Repoman'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
