@@ -1,3 +1,4 @@
 #!/bin/sh
-cd /github/workspace
-repoman full
+ls -al
+pwd
+repoman --vcs "" full
