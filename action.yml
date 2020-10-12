@@ -2,6 +2,6 @@
 name: 'Repoman'
 runs:
   using: 'docker'
-  image: ghcr.io/daugustin/repoman:latest
+  image: 'docker://ghcr.io/daugustin/repoman:latest'
   args:
     - 'full'
